@@ -1,0 +1,11 @@
+Customer ID,Name,Gender,Age,Country,Signup Date
+1001.0,Alice,Male,25,USA,01-02-2022
+1002.0,Bob,F,30,uk,2022/03/05
+1003.0,Charlie,female,,India,5 March 2022
+1003.0,Charlie,female,,India,5 March 2022
+1004.0,David,M,45,USA,2022-04-10
+1005.0,Eve,Female,28,United States,10.05.2022
+1006.0,Frank,MALE,33,UK,15-06-22
+1007.0,Grace,F,35,india,2022.07.01
+1008.0,,Male,40,usa,01/08/2022
+,Ivy,FEMALE,Thirty,U.K.,"August 10, 2022"
