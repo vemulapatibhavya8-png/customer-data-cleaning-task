@@ -3,7 +3,7 @@
 This project demonstrates basic data cleaning using Python for a synthetic customer dataset. The raw dataset includes issues such as missing values, duplicate records, inconsistent formatting and mixed data types.
 
 ## Dataset Files
-- raw_customer_data.csv
+- 'raw_customer_data.csv'
 - `raw_customer_data.csv` – Original raw dataset with inconsistencies.
 - `cleaned_customer_data.csv` – Cleaned version in CSV format.
 - `cleaned_customer_data.xlsx` – Cleaned version in Excel format.
